@@ -1,4 +1,3 @@
-# NETWORKWALKS-GODWIN-B083-WK4-MEDIROZA-PM1-PM2-PM3-PENETRATION-TEST-
 # NETWORKWALKS-GIDEON-B083-WK4--PM1-PM2-PM3-CYBERSECURITY-MEDIROZA-GENERAL-HOSPITAL-PENETRATION-TEST
 ###
 ## 👤 Lab Information
@@ -113,10 +112,6 @@ Reporting & Remediation
 
 ## Reconnaissance
 
-<img width="1348" height="610" alt="image" src="https://github.com/user-attachments/assets/95c06a5b-58fc-4883-a88d-89165d664144" />
-<img width="1366" height="381" alt="image" src="https://github.com/user-attachments/assets/1c52297c-2908-4d3a-848e-25fad38b4938" />
-<img width="1351" height="214" alt="image" src="https://github.com/user-attachments/assets/aab987c4-a0d7-4c46-8401-1ac8517c44e6" />
-<img width="1366" height="182" alt="image" src="https://github.com/user-attachments/assets/fbe736d7-4f78-4558-a3aa-db7efe565a4d" />
 
 
 
