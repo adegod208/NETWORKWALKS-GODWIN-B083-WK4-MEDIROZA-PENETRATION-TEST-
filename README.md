@@ -112,8 +112,8 @@ Reporting & Remediation
 
 ## Reconnaissance
 ![](reco.png)
-![](recon(2).png)
-![](recon(3).png)
+![](recon_(2).png)
+![](recon_(3).png)
 ![](recon.png)
 
 
