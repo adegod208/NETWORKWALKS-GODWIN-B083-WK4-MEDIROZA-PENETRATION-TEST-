@@ -546,4 +546,4 @@ LinkedIn: www.linkedin.com/in/godwin-adewuyi-58244236b
 
 **📌 Project Information**
 
-**Program Name:** Cybersecurity Internship Program at Networkwalks | **Week:** 03 | 
+**Program Name:** Cybersecurity Internship Program at Networkwalks | **Week:** 04 | 
