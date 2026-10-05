@@ -111,6 +111,10 @@ Reporting & Remediation
 - Dictionary-based password recovery tools
 
 ## Reconnaissance
+![](reco.png)
+![](recon(2).png)
+![](recon(3).png)
+![](recon.png)
 
 
 
